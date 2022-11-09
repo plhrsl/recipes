@@ -1,2 +1,3 @@
 # odin-recipes
-the odin project - foundations course (project 1)
+
+project 1 of the odin project foundations course.
